@@ -1,4 +1,4 @@
-# Spotify User Interface Clone
+# Spotify User-Interface Clone
 
 A visually appealing static replica of Spotify's user interface. This clone focuses on replicating Spotify's clean and modern design using HTML and CSS.
 
@@ -23,6 +23,6 @@ A visually appealing static replica of Spotify's user interface. This clone focu
 
 ## Live Demo
 
-Experience the live version here: [Spotify Frontend Clone Demo](#)  
+Experience the live version here: [Spotify Frontend Clone Demo](https://vishalshukla6395.github.io/Spotify-UI-Clone/)
 
 ---
